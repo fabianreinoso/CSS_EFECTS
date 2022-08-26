@@ -1,1 +1,0 @@
-Efecto de una barra de colores, cambia constantemente.

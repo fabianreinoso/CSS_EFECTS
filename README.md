@@ -1,1 +1,0 @@
-Efectos creados en HTML y CSS.
